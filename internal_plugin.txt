@@ -1,0 +1,1 @@
+com.oppo.camera;com.oppo.camera.superzoom;com.oppo.camera.night;com.oppo.camera.facebeauty;com.oppo.camera.filter;com.oppo.camera.panorama;com.oppo.camera.hdr;com.oppo.camera.gif;com.oppo.camera.slowshutter;com.oppo.camera.audio;com.oppo.camera.doubleexposure;com.oppo.camera.fastvideomode;
